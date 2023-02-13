@@ -1,4 +1,4 @@
-aiohttp==3.7.4
+aiohttp==3.8.4
 aiorun==2021.8.1
 aiopath==0.5.12
 colorlog==6.5.0
